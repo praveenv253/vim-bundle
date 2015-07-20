@@ -49,3 +49,9 @@ Notes
   replaced by [powerline](https://github.com/powerline/powerline). So this
   needs to be changed in the near future. Further, patched fonts need to be
   installed to fully make use of vim-powerline, as described above.
+
+Todo
+----
+* Use git's new (v1.8.2+) ability to track branches. Refer
+  [this](http://stackoverflow.com/questions/9189575/) and
+  [this](http://stackoverflow.com/questions/1777854/).
