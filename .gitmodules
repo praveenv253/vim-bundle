@@ -49,3 +49,6 @@
 [submodule "vim-slime"]
 	path = vim-slime
 	url = https://github.com/jpalardy/vim-slime.git
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar.git
